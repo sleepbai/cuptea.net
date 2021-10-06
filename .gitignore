@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+/public
+
+.idea
+.history
+.deploy*/
+
+# misc
+.DS_Store
+
+*.log*
+*.zip
+
+Thumbs.db
+db.json

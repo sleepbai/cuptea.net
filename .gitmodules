@@ -1,0 +1,3 @@
+[submodule "themes/claudia"]
+	path = themes/claudia
+	url = git@github.com:hopeideal/hexo-theme-claudia.git
